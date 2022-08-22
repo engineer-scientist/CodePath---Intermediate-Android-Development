@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://g.recordit.co/vVh250HXJt.gif' />
+<img src='http://g.recordit.co/a5uwHmfVtI.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [RecordIt](http://www.recordit.co).  
