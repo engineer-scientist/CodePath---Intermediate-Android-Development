@@ -30,8 +30,8 @@ Here's a walkthrough of implemented features:
 GIF created with [RecordIt](http://www.recordit.co).  
 
 ## Notes
+Learning how to create the GIF was a bit of a challenge on Windows, as the instructions were for Mac. But eventually, I figured it out. 
 
-Creating GIF was a bit of a challenge.
 ## License
 
     Copyright [2022] [Sarthak Sharma]
