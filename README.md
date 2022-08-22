@@ -1,10 +1,10 @@
 # CodePath---Intermediate-Android-Development
 
-# Android Prework - *Hello world!*
+# Android Prework - *HelloWorld2*
 
 Submitted by: **Sarthak Sharma**
 
-**Hello world!** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld2** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **2** hours spent in total
 
