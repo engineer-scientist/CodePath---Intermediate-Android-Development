@@ -34,7 +34,7 @@ GIF created with [RecordIt](http://www.recordit.co).
 Creating GIF was a bit of a challenge.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Sarthak Sharma]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
